@@ -1,8 +1,5 @@
 # Llama Arithmetic Benchmark
 
-This project benchmarks Llama models on simple integer and decimal arithmetic problems.
-
-
 ## Requirements
 
 - Python 3.8+
