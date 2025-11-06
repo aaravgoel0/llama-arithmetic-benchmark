@@ -1,0 +1,3 @@
+dataset,num_samples,num_correct,accuracy
+integer,3000,2999,0.999667
+decimal,3000,2970,0.990000
